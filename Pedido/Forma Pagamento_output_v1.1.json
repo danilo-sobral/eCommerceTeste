@@ -1,0 +1,19 @@
+{
+	"cnpj": "03098482000152",
+	"FormaPagamento": [
+		{
+			"descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": 313,
+            "descricaoCondicaoPagamento": "",
+            "codigoCondicaoPagamento": "",
+            "cartaoDeCredito": "HIPERCARD 4X",
+            "parcelas": "4",
+            "codigoCartaoCredito": "102"
+		}
+	],
+	"Retorno": {
+        "codigo": "IIB-0200",
+        "status": "OK",
+        "mensagem": "Formas de Pagamento obtidos com sucesso."
+	}
+}

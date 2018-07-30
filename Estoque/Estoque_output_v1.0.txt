@@ -1,0 +1,7 @@
+{
+	"Retorno": {
+		"status": "OK",
+		"codigo": "codigo",
+		"descricao": "mensagem"
+	}
+}

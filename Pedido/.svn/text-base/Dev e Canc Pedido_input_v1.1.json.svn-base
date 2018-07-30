@@ -1,0 +1,11 @@
+// https://hostnameCDP/partnerOrders/{numero do pedido} - Metodo PUT
+
+{
+  "cnpjRevenda":"60812088000178", // CNPJ da Revenda vinculada ao Pedido
+  "token" : "38d04105-c491-4719-b801-16844675cb62", // Token da Revenda vinculada ao Pedido
+  "Pedido": {
+    "codigoWeb": 0,
+    "status": 8, // 8-CANCELED, 10-RETURNED(Devolvido)
+    "descricaoStatus":"CANCELED"
+  }
+}

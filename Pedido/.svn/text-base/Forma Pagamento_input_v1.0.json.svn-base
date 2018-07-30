@@ -1,0 +1,7 @@
+// https://hostname/customer/api/nbs/pedido/formaPagamento/v1?cnpj=03098482000152
+
+https://hostname/customer/api/nbs/pedido/formaPagamento/v1?cnpj=03098482000152
+GET
+cnpj QueryString 03098482000152
+
+

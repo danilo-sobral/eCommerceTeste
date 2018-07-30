@@ -1,0 +1,12 @@
+{
+	"Pedido": {
+	    "codigoWeb": 0,
+	    "status": 0,
+    	"descricaoStatus":""
+	},
+	"Retorno": {
+		"status": "OK",
+		"codigo": "codigo",
+		"descricao": "Pedido cancelado com sucesso." // "Pedido devolvido com sucesso."
+	}
+}

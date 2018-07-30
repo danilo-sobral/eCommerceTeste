@@ -1,0 +1,46 @@
+{
+    "Produto": [
+        {
+            "codigoWeb": 33415131,
+            "codigo": "A  0000901551",
+            "nomeFabricante": "Mercedes",
+            "codigoFabricante": "A0000901551",
+            "quantidade": 403,
+            "quantidadeVirtual": 10,
+            "tempoPreparo": 5,
+            "preco": 116.64,
+            "disponivelSolicitacao": true,
+            "tagPreco": [
+                {
+                    "nome": "AC"
+                }
+            ],
+            "Retorno": {
+                "status": "OK",
+                "codigo": "IIB-0200",
+                "mensagem": "Estoque 33415131 atualizado com sucesso"
+            }
+        },
+        {
+            "codigoWeb": 33415131,
+            "codigo": "A  0000901551",
+            "nomeFabricante": "Mercedes",
+            "codigoFabricante": "A0000901551",
+            "quantidade": 404,
+            "quantidadeVirtual": 10,
+            "tempoPreparo": 5,
+            "preco": 116.64,
+            "disponivelSolicitacao": true,
+            "Retorno": {
+                "status": "OK",
+                "codigo": "IIB-0200",
+                "mensagem": "Estoque 33415131 atualizado com sucesso"
+            }
+        }
+    ],
+    "Retorno": {
+        "status": "OK",
+        "codigo": "IIB-0200",
+        "mensagem": "Estoques atualizados com sucesso."
+    }
+}

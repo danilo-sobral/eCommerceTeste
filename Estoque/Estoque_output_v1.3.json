@@ -1,0 +1,40 @@
+{
+    "Produto": [
+        {
+            "idEstoque": 33415131,
+            "quantidade": 403,
+            "quantidadeVirtual": 10,
+            "tempoPreparo": 5,
+            "preco": 116.64,
+            "disponivelSolicitacao": true,
+            "tagPreco": [
+                {
+                    "name": "AC"
+                }
+            ],
+            "Retorno": {
+                "status": "OK",
+                "codigo": "IIB-0200",
+                "mensagem": "Estoque 33415131 atualizado com sucesso"
+            }
+        },
+        {
+            "idEstoque": 33415131,
+            "quantidade": 404,
+            "quantidadeVirtual": 10,
+            "tempoPreparo": 5,
+            "preco": 116.64,
+            "disponivelSolicitacao": true,
+            "Retorno": {
+                "status": "OK",
+                "codigo": "IIB-0200",
+                "mensagem": "Estoque 33415131 atualizado com sucesso"
+            }
+        }
+    ],
+    "Retorno": {
+        "status": "OK",
+        "codigo": "IIB-0200",
+        "mensagem": "Estoques atualizados com sucesso."
+    }
+}

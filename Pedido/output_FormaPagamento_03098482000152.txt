@@ -1,0 +1,946 @@
+{
+    "cnpj": "03098482000152",
+    "FormaPagamento": [
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "30/60 DIAS",
+            "codigoCondicaoPagamento": "2",
+            "cartaoDeCredito": " ",
+            "parcelas": "2",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "12 VEZES",
+            "codigoCondicaoPagamento": "34",
+            "cartaoDeCredito": " ",
+            "parcelas": "12",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "30/60/90/120 DIAS",
+            "codigoCondicaoPagamento": "4",
+            "cartaoDeCredito": " ",
+            "parcelas": "4",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "30/60/90/120/150 DIAS",
+            "codigoCondicaoPagamento": "5",
+            "cartaoDeCredito": " ",
+            "parcelas": "5",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "30/60/90/120/150/180 DIAS",
+            "codigoCondicaoPagamento": "6",
+            "cartaoDeCredito": " ",
+            "parcelas": "6",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "30 DIAS",
+            "codigoCondicaoPagamento": "1",
+            "cartaoDeCredito": " ",
+            "parcelas": "1",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "01 DIA",
+            "codigoCondicaoPagamento": "25",
+            "cartaoDeCredito": " ",
+            "parcelas": "1",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "05 DIAS",
+            "codigoCondicaoPagamento": "26",
+            "cartaoDeCredito": " ",
+            "parcelas": "1",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "10 DIAS",
+            "codigoCondicaoPagamento": "27",
+            "cartaoDeCredito": " ",
+            "parcelas": "1",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "15 DIAS",
+            "codigoCondicaoPagamento": "28",
+            "cartaoDeCredito": " ",
+            "parcelas": "1",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "07 VEZES",
+            "codigoCondicaoPagamento": "29",
+            "cartaoDeCredito": " ",
+            "parcelas": "7",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "08 VEZES",
+            "codigoCondicaoPagamento": "30",
+            "cartaoDeCredito": " ",
+            "parcelas": "8",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "09 VEZES",
+            "codigoCondicaoPagamento": "31",
+            "cartaoDeCredito": " ",
+            "parcelas": "9",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "20 DIAS",
+            "codigoCondicaoPagamento": "109",
+            "cartaoDeCredito": " ",
+            "parcelas": "1",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "28 DIAS",
+            "codigoCondicaoPagamento": "110",
+            "cartaoDeCredito": " ",
+            "parcelas": "1",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "35 DIAS",
+            "codigoCondicaoPagamento": "111",
+            "cartaoDeCredito": " ",
+            "parcelas": "1",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "42 DIAS",
+            "codigoCondicaoPagamento": "112",
+            "cartaoDeCredito": " ",
+            "parcelas": "1",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "45 DIAS",
+            "codigoCondicaoPagamento": "113",
+            "cartaoDeCredito": " ",
+            "parcelas": "1",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "15/30/45/60/75/90 DIAS",
+            "codigoCondicaoPagamento": "114",
+            "cartaoDeCredito": " ",
+            "parcelas": "6",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "15/30/45/60/75/90/105 DIAS",
+            "codigoCondicaoPagamento": "115",
+            "cartaoDeCredito": " ",
+            "parcelas": "7",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "15/30/45/60/75/90/105/120 DIAS",
+            "codigoCondicaoPagamento": "116",
+            "cartaoDeCredito": " ",
+            "parcelas": "8",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "60 DIAS",
+            "codigoCondicaoPagamento": "117",
+            "cartaoDeCredito": " ",
+            "parcelas": "1",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "75 DIAS",
+            "codigoCondicaoPagamento": "118",
+            "cartaoDeCredito": " ",
+            "parcelas": "1",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "90 DIAS",
+            "codigoCondicaoPagamento": "119",
+            "cartaoDeCredito": " ",
+            "parcelas": "1",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "10 VEZES",
+            "codigoCondicaoPagamento": "32",
+            "cartaoDeCredito": " ",
+            "parcelas": "10",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "11 VEZES",
+            "codigoCondicaoPagamento": "33",
+            "cartaoDeCredito": " ",
+            "parcelas": "11",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO",
+            "codigoPagamento": "302",
+            "descricaoCondicaoPagamento": "30/60/90 DIAS",
+            "codigoCondicaoPagamento": "3",
+            "cartaoDeCredito": " ",
+            "parcelas": "3",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "BOLETO AVULSO",
+            "codigoPagamento": "320",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": " ",
+            "parcelas": " ",
+            "codigoCartaoCredito": " "
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "CARTÃO VALECARD",
+            "parcelas": " ",
+            "codigoCartaoCredito": "92"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "CARTÃO FITCARD",
+            "parcelas": " ",
+            "codigoCartaoCredito": "93"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "HIPERCARD 1X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "99"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "HIPERCARD 2X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "100"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "HIPERCARD 3X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "101"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "HIPERCARD 4X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "102"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "HIPERCARD 5X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "103"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "HIPERCARD 6X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "104"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "HIPERCARD 7X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "105"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "HIPERCARD 8X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "106"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "HIPERCARD 9X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "107"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "HIPERCARD 10X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "108"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "VISA 1X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "5"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "MASTER 1X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "6"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "AMEX 1X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "7"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "ELO 1X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "8"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "DINERS 1X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "10"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "CARTAO POS VENDA FACIL 1X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "11"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "TICKET LOG 1X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "13"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "VISA 3X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "17"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "VISA 6X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "18"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "MASTER 3X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "19"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "MASTER 6X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "20"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "AMEX 3X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "21"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "AMEX 6X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "22"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "ELO 3X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "23"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "ELO 6X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "24"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "DINERS 3X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "27"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "DINERS 6X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "28"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "CARTAO POS VENDA FACIL 3X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "29"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "CARTAO POS VENDA FACIL 6X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "30"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "VISA 10X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "31"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "MASTER 10X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "32"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "AMEX 10X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "33"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "ELO 10X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "34"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "DINERS 10X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "36"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "CARTAO POS VENDA FACIL 10X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "37"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "VISA 9X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "40"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "VISA 4X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "41"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "VISA 5X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "42"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "VISA 7X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "43"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "VISA 8X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "44"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "MASTER 4X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "45"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "MASTER 5X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "46"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "MASTER 7X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "47"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "MASTER 8X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "48"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "MASTER 9X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "49"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "AMEX 4X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "50"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "AMEX 5X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "51"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "AMEX 7X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "52"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "AMEX 8X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "53"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "AMEX 9X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "54"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "ELO 4X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "55"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "ELO 5X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "56"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "ELO 7X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "57"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "ELO 8X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "58"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "ELO 9X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "59"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "DINERS 4X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "60"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "DINERS 5X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "61"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "DINERS 7X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "62"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "DINERS 8X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "63"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "DINERS 9X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "64"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "CARTAO POS VENDA FACIL 4X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "65"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "CARTAO POS VENDA FACIL 5X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "66"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "CARTAO POS VENDA FACIL 7X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "67"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "CARTAO POS VENDA FACIL 8X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "68"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "CARTAO POS VENDA FACIL 9X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "69"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "DINERS 2X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "71"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "MASTER 2X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "72"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "CARTAO POS VENDA FACIL 2X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "73"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "VISA 2X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "74"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "ELO 2X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "75"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "AMEX 2X",
+            "parcelas": " ",
+            "codigoCartaoCredito": "77"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "CARTÃO BNDES",
+            "parcelas": " ",
+            "codigoCartaoCredito": "89"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "CARTÃO CABAL",
+            "parcelas": " ",
+            "codigoCartaoCredito": "90"
+        },
+        {
+            "descricaoFormaPagamento": "CARTAO CREDITO/DEBITO",
+            "codigoPagamento": "313",
+            "descricaoCondicaoPagamento": " ",
+            "codigoCondicaoPagamento": " ",
+            "cartaoDeCredito": "CARTÃO NUTRICASH",
+            "parcelas": " ",
+            "codigoCartaoCredito": "91"
+        }
+    ],
+    "Retorno": {
+        "codigo": "IIB-0200",
+        "status": "OK",
+        "mensagem": "Formas de Pagamento obtidos com sucesso."
+    }
+}

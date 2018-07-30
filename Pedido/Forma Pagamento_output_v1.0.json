@@ -1,0 +1,15 @@
+{
+	"cnpj": "03098482000152",
+	"FormaPagamento": [
+		{
+			"codigoPagamento": "",
+			"descricao": "BOLETO AVULSO", // BOLETO AVULSO, CARTAO CREDITO/DEBITO, 01 DIA, 05 DIAS
+			"codigoCondicaoPagamento": "",
+		}
+	],
+	"Retorno": {
+		"status": "OK",
+		"codigo": "codigo",
+		"descricao": "mensagem"
+	}
+}

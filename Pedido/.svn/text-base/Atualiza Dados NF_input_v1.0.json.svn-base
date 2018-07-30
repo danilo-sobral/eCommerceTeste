@@ -1,0 +1,16 @@
+// https://hostname/partnerOrders/{numero do pedido}
+
+{
+	"Pedido": {
+		"status": "READY", // "READY", "SHIPPED"
+		"codigoCDP": "",
+		"codigoInterno": "",		// supplierInvoiceNumber (Número da nota fiscal)
+		"NotaFiscal": {
+			"numero": "",				// supplierInvoiceNumber (Número da nota fiscal)
+			"serie": "",				// supplierInvoiceSerie (Série da nota fiscal)
+			"chave": "12345",			// supplierInvoiceKey
+			"data": "15-09-2017", 		// supplierInvoiceDate
+		},
+		"codigoRastreamento": "" 	// trackingCode
+	}
+}

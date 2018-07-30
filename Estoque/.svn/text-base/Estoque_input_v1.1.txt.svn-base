@@ -1,0 +1,27 @@
+{
+	"cnpjRevenda": "12345678910123",
+	"token": "Token de autenticacao CDP",
+	"sistemaOrigem": "NBS",
+	"Item": [{
+		"codigo": "AS593230",
+		"quantidade": 55,
+		"preco": 1.00,
+		"quantidadeVirtual": 0,
+		"tempoPreparo": 0,
+		"disponivelSolicitacao": true,
+		"tagPreco": [{
+			"name": "Nacional"
+		}]
+	},
+	{
+		"codigo": "RS593230",
+		"quantidade": 22,
+		"preco": 60.00,
+		"quantidadeVirtual": 0,
+		"tempoPreparo": 0,
+		"disponivelSolicitacao": true,
+		"tagPreco": [{
+			"name": "Importado"
+		}]
+	}]
+}

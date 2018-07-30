@@ -1,0 +1,22 @@
+// https://hostnameCDP/partnerOrders/{numero do pedido} - Metodo PUT
+// base url IIB - /api/canaldapeca/pedido/
+// path da operação atualizar status pedido CDP - IIB - 
+// /atualizarStatus/v1
+
+{
+  "Pedido": {
+    "codigoWeb": 0,
+    "codigoNBS": 0,
+    "status": 0, // 1-PRE_ORDER, 2-AWAITING_PAYMENT, 3-PAYMENT_APPROVED, 4-READY, 5-SHIPPED, 6-DELIVERED, 7-COMPLETED, 8-CANCELED, 9-STRAYED, 10-RETURNED
+    "descricaoStatus":"",
+    "NotaFiscal": { // Enviado somente quando Status for "READY" - Atualização de NF
+      "numero":"", // Número da nota fiscal
+      "serie": "", // Serie da nota fiscal
+      "chave": "", // Chave da nota fiscal
+      "dataEmissao": "24/04/2018"
+    },
+    "Frete": {
+      "codigoRastreio": "" // Enviado somente quando Status for "SHIPPED"
+    }
+  }
+}

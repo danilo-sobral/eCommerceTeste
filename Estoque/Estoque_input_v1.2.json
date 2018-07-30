@@ -1,0 +1,32 @@
+{
+	"cnpjRevenda": "03098482000152",
+	"token": "209d2f08-7439-4723-9cbf-89617eca693a",
+	"sistemaOrigem": "NBS",
+	"Produto": [{
+		"codigo": "A  0000901551",
+		"nomeFabricante": "Mercedes",
+		"codigoFabricante": "A0000901551",
+		"codigoBarra": "",
+		"quantidade": 403,
+		"preco": 116.64,
+		"quantidadeVirtual": 10,
+		"tempoPreparo": 5,
+		"disponivelSolicitacao": true,
+		"composicao": "UNITARY",
+		"tagPreco": [{
+			"name": "AC"
+		}]
+	},
+	{
+		"codigo": "A  0000901551",
+		"nomeFabricante": "Mercedes",
+		"codigoFabricante": "A0000901551",
+		"codigoBarra": "",
+		"quantidade": 404,
+		"preco": 116.64,
+		"quantidadeVirtual": 10,
+		"tempoPreparo": 5,
+		"disponivelSolicitacao": true,
+		"composicao": "UNITARY"
+	}]
+}

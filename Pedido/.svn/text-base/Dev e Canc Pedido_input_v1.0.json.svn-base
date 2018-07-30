@@ -1,0 +1,9 @@
+// https://hostnameCDP/partnerOrders/{numero do pedido} - Metodo PUT
+
+{
+  "Pedido": {
+    "codigoWeb": 0,
+    "status": 8, // 8-CANCELED, 10-RETURNED(Devolvido)
+    "descricaoStatus":"CANCELED"
+  }
+}
